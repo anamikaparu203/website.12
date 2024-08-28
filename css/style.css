@@ -1,0 +1,44 @@
+body{
+    background-image: url("/images/image1.2.jpg"); 
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+header{
+    background-color: black;
+
+}
+
+header nav {
+    float: right;
+     margin-top: 15px;
+}
+
+header nav a {
+    color: white;
+    text-decoration: none;
+    border: 1px solid whitesmoke;
+    padding: 10px;
+    
+
+}
+
+#img1{
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
+.textgrp{
+    color: white;
+    margin-top:8%;
+
+    margin-left: 3%;
+
+    width: 40%;
+}
+
+
+
